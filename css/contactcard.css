@@ -1,0 +1,29 @@
+* {
+    font-family: sans-serif;
+}
+
+form {
+    width: 800px;
+    display: flex;
+    margin: 0 auto;
+}
+
+form div {
+    width: 400px;
+}
+
+textarea {
+    width: 350px;
+}
+
+#right {
+    text-align: center;
+}
+
+.contactcard {
+    width: 350px;
+    border: 1px solid black;
+    padding: 10px;
+    vertical-align: center;
+    margin-bottom: 10px;
+}
